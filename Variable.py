@@ -26,6 +26,36 @@ print(type(x))
 print(type(y))
 
 
+#Case-Sensitive
+a = 4
+A = "Sally"
+#A will not overwrite a
+
+#*********************************************
+#Many Values to Multiple Variables
+#exmple
+x, y, z = "Orange", "Banana", "Cherry"
+print(x)
+print(y)
+print(z)
+
+#One Value to Multiple Variables
+
+x = y = z = "Python"
+print(x)
+print(y)
+print(z)
+
+
+#Unpack a Collection  Unpack a list:
+
+fruits = ["apple", "banana", "cherry"]
+x, y, z = fruits
+print(x)
+print(y)
+print(z)
+
+
 
 
 
