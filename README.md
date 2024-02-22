@@ -11,5 +11,7 @@ souhailaharrak/FormationPython
 ##Sélection spécifie quand suivre chaque chemin. dans programmation 
 
 ##Un algorithme est un ensemble d'instructions étape par étape pour accomplir une tâche, placées dans un certain ordre.
+##Les boucles while répètent le code tant qu'une condition reste vraie. 
+
 
 
