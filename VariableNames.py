@@ -15,3 +15,40 @@ MyVariableName = "Python1"
 
 myVariableName = "Python3"
 
+#**************************************************************
+#Global variables can be used by everyone, both inside of functions and outside.
+#Example 
+x = "awesome"
+
+def myfunc():
+  print("Python is " + x)
+
+myfunc()
+
+
+
+#**************************************************
+#Example
+#Create a variable inside a function, with the same name as the global variable
+def myfunc():
+  global x
+  x = "fantastic"
+
+myfunc()
+
+print("Python is " + x)
+
+
+
+#To change the value of a global variable inside a function, refer to the variable by using the global keyword:
+
+x = "awesome"
+
+def myfunc():
+  global x
+  x = "fantastic"
+
+myfunc()
+
+print("Python is " + x)
+
