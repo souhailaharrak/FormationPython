@@ -22,3 +22,9 @@ print(b)
 b=str(x)
 print(x)
 print(type(b))
+
+#Les entiers ne peuvent pas être concaténés à des chaînes
+
+distance = 14 
+units = "km"
+print(distance + units)
