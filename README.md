@@ -14,4 +14,9 @@ souhailaharrak/FormationPython
 ##Les boucles while répètent le code tant qu'une condition reste vraie. 
 
 
+Fonction Vues : print()        --->affficher a l"ecran 
+                input ()       --> lire au clavier 
+                 type()        --> returne le type d"une donne variables 
+                  str.format()  --> formater une chaine 
+
 
