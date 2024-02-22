@@ -28,3 +28,9 @@ print(type(b))
 distance = 14 
 units = "km"
 print(distance + units)
+
+
+
+distance = str(14)
+units = "km"
+print((distance) + units)
