@@ -8,3 +8,8 @@ souhailaharrak/FormationPython
 
 ######## contrôler le flux #d'instructions qu'un ordinateur suit, en utilisant 3 techniques : séquençage, itération et sélection.
 
+##Sélection spécifie quand suivre chaque chemin. dans programmation 
+
+##Un algorithme est un ensemble d'instructions étape par étape pour accomplir une tâche, placées dans un certain ordre.
+
+
