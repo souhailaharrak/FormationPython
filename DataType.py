@@ -24,5 +24,11 @@ message = "Nice to meet you, " + name
 
 # Display the message to the user
 print(message)
+#**********************************************88
+balance = 234.3
+print(type(balance))
+#********************************
+#🌟 l'instruction type() est utilisée pour vérifier le type de données
+
 
 

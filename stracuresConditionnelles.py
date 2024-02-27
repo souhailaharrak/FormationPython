@@ -1,5 +1,13 @@
+#conditions multiples
+#and (et) or (ou) in/not in(dans/pas dans)
+ 
+letrre_hassard =True
+if not letrre_hassard:
+  print("ok")
+else:
+    print("NOok")
+ 
  #conditionnelle simple
-
 n1=float(input("entre un number1 "))
 n2=float(input("entre un number2 "))
 
@@ -63,4 +71,13 @@ else :
    print ("le number inccorecte") 
     
     
+#example
+a=float(input("n2 "))
+
+if a % 2 ==0:
+    print("Pair")
+else :
+    print("impaire")
+
+
     

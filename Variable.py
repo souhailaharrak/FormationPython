@@ -57,5 +57,22 @@ print(z)
 
 
 
+x=19
+n="souhaila"
+#• Le mot clé sep précise une séparation entre les variables chaines
+print(n,"Hallo",x,"ans",sep="  ")
 
 
+
+x=12
+nom="souhaila "
+#La méthode .format() permet une meilleure organisation de l'affichage des variables
+print(" Bonjour  {} jai  {} ".format(nom,x))
+
+nom="souhaila "
+print(nom * 9)
+
+
+#in and not in 
+nom="souhaila "
+print("la " not in nom)
