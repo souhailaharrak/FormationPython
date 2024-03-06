@@ -57,7 +57,7 @@ while jeu_lance :
     elif choixMenu=="hello":
         print("Bonjour ...")
     else :
-        print("commande introuvable")
+        print("commande introuvable")  
 print("a Bientot") 
     
     

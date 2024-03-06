@@ -76,3 +76,9 @@ print(nom * 9)
 #in and not in 
 nom="souhaila "
 print("la " not in nom)
+
+name="wissam "
+for i in range(1,len(name),1):
+    print(name[i],end="  ")
+    print(i)
+print()
